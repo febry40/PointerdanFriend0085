@@ -10,3 +10,8 @@ public:
 
 };
 
+void setB=Nama(mahasiswa &a, string pNama)
+{
+    a.nama = pNama;
+}
+
